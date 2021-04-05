@@ -33,11 +33,11 @@ Always motivated to share (although I'm just beginning to try to contribute in o
 And more...
 
 ## Find me at:
-[![Twitter](https://img.shields.io/badge/Twitter-@mouredev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Juan_Esteban_30)
-[![Instagram](https://img.shields.io/badge/Instagram-@mouredev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juanestebanlt/)
+[![Twitter](https://img.shields.io/badge/Twitter-@Juan_Esteban_30-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Juan_Esteban_30)
+[![Instagram](https://img.shields.io/badge/Instagram-@juanestebanlt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juanestebanlt/)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-esteban-londo%C3%B1o-tabares-9301a151/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Esteban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-esteban-londo%C3%B1o-tabares-9301a151/)
 
 
 ## Contact me:
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/juanestebanlt@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanestebanlt@gmail.com)
