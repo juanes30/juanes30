@@ -3,7 +3,7 @@
 
 Español: Soy un apasionado por el desarrollo de aplicaciones móviles, web y escritorio, actualmente enamorado de kotlin, go y muy sorprendido por las facilidades de flutter.
 
-Llevo mas de 9 años en el desarrollo de software, trato en lo posible que el código parezca una obra de arte y sobre todo fácil de entender (no se sabe cuando se tenga que volver a modificar un código viejo)
+Llevo mas de 10 años en el desarrollo de software, trato en lo posible que el código parezca una obra de arte y sobre todo fácil de entender (no se sabe cuando se tenga que volver a modificar un código viejo)
 
 Siempre motivado a compartir (aunque apenas estoy empezando a tratar de aportar en proyectos open source) :). Y seguir creciendo como programador y ayudar a los demás a que también lo hagan.
 
