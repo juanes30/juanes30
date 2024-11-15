@@ -3,13 +3,13 @@
 
 Español: Soy un apasionado por el desarrollo de aplicaciones móviles, web y escritorio, actualmente enamorado de kotlin, go y muy sorprendido por las facilidades de flutter.
 
-Llevo mas de 10 años en el desarrollo de software, trato en lo posible que el código parezca una obra de arte y sobre todo fácil de entender (no se sabe cuando se tenga que volver a modificar un código viejo)
+Llevo mas de 14 años en el desarrollo de software, trato en lo posible que el código parezca una obra de arte y sobre todo fácil de entender (no se sabe cuando se tenga que volver a modificar un código viejo)
 
 Siempre motivado a compartir (aunque apenas estoy empezando a tratar de aportar en proyectos open source) :). Y seguir creciendo como programador y ayudar a los demás a que también lo hagan.
 
 English: I am passionate about the development of mobile applications, web and desktop, currently in love with kotlin, go and very surprised by the flutter facilities.
 
-I have been developing software for more than 9 years, I try as much as possible to make the code look like a work of art and, above all, easy to understand (you do not know when you have to modify an old code again)
+I have been developing software for more than 14 years, I try as much as possible to make the code look like a work of art and, above all, easy to understand (you do not know when you have to modify an old code again)
 
 Always motivated to share (although I'm just beginning to try to contribute in open source projects) :). And keep growing as a programmer and help others to do it too.
 
