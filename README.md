@@ -33,15 +33,15 @@ Always motivated to share (although I'm just beginning to try to contribute in o
 And more...
 
 <!-- GitHub stats -->
-<b>⚡ My GitHub Statistics</b>
+<!-- <b>⚡ My GitHub Statistics</b>-->
 
-<p>
+<!--<p>-->
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanes30&show_icons=true&hide_border=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanes30&show_icons=true&hide_border=true" />-->
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes30&&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-</p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes30&&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<!-- </p>-->
 
 
 ## 🏆 GitHub Trophies
