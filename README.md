@@ -32,6 +32,21 @@ Always motivated to share (although I'm just beginning to try to contribute in o
 </br>
 And more...
 
+<!-- GitHub stats -->
+<b>⚡ My GitHub Statistics</b>
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanes30&show_icons=true&hide_border=true" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes30&&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+</p>
+
+
+## 🏆 GitHub Trophies
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=juanes30&theme=darkhub&no-frame=true&row=2)
+
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Juan_Esteban_30-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Juan_Esteban_30)
 [![Instagram](https://img.shields.io/badge/Instagram-@juanestebanlt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juanestebanlt/)
