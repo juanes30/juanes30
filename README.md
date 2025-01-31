@@ -44,8 +44,8 @@ And more...
 <!-- </p>-->
 
 
-## 🏆 GitHub Trophies
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=juanes30&theme=darkhub&no-frame=true&row=2)
+<!--## 🏆 GitHub Trophies
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=juanes30&theme=darkhub&no-frame=true&row=2)-->
 
 ## Find me at:
 [![Twitter](https://img.shields.io/badge/Twitter-@Juan_Esteban_30-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Juan_Esteban_30)
