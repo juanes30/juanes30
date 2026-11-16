@@ -1,58 +1,125 @@
-# ![https://www.linkedin.com/in/juan-esteban-londo%C3%B1o-tabares-9301a151/](https://raw.githubusercontent.com/juanes30/juanes30/main/juan_londono_70.png) Hello, my name is Juan Esteban Londoño
-### CTO At EFY Colombia (EASY FOR YOU)
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="Juan Esteban Londoño — CTO · Platform & AI Engineering"/>
+</p>
 
-Español: Soy un apasionado por el desarrollo de aplicaciones móviles, web y escritorio, actualmente enamorado de kotlin, go y muy sorprendido por las facilidades de flutter.
+<p align="center">
+  <a href="https://www.linkedin.com/in/juan-esteban-londo%C3%B1o-tabares-9301a151/"><img src="https://img.shields.io/badge/LinkedIn-Juan_Esteban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010"/></a>
+  <a href="https://twitter.com/Juan_Esteban_30"><img src="https://img.shields.io/badge/X-@Juan__Esteban__30-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=101010"/></a>
+  <a href="mailto:juanestebanlt@gmail.com"><img src="https://img.shields.io/badge/Email-juanestebanlt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010"/></a>
+</p>
 
-Llevo mas de 14 años en el desarrollo de software, trato en lo posible que el código parezca una obra de arte y sobre todo fácil de entender (no se sabe cuando se tenga que volver a modificar un código viejo)
+<p align="center">
+  <b>14+ years building software · Medellín, Colombia 🇨🇴</b><br/>
+  I design, build and run production systems end to end — the Kubernetes platform, the pipelines that ship to it,<br/>
+  the services and apps on top, and the LLM pipelines inside them.
+</p>
 
-Siempre motivado a compartir (aunque apenas estoy empezando a tratar de aportar en proyectos open source) :). Y seguir creciendo como programador y ayudar a los demás a que también lo hagan.
+---
 
-English: I am passionate about the development of mobile applications, web and desktop, currently in love with kotlin, go and very surprised by the flutter facilities.
+## ☸️ Cloud-native platform
 
-I have been developing software for more than 14 years, I try as much as possible to make the code look like a work of art and, above all, easy to understand (you do not know when you have to modify an old code again)
+> Self-managed production platform, designed and operated end to end, fully codified in Ansible and delivered through GitOps.
 
-Always motivated to share (although I'm just beginning to try to contribute in open source projects) :). And keep growing as a programmer and help others to do it too.
+<table>
+  <tr>
+    <td><b>Orchestration & mesh</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Istio_Ambient-466BB0?style=for-the-badge&logo=istio&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/kgateway-5B2A86?style=for-the-badge&logo=envoyproxy&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/KEDA-0E5E9F?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=101010"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>GitOps & CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Harbor-60B932?style=for-the-badge&logo=harbor&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=101010"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Identity & security</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Kyverno-1A4B8C?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/cert--manager-0A5CBF?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/cosign-4B32C3?style=for-the-badge&logoColor=white&labelColor=101010"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Observability</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Loki-F5A800?style=for-the-badge&logo=grafana&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Kiali-013144?style=for-the-badge&logo=istio&logoColor=white&labelColor=101010"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & resilience</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CloudNativePG-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Redis_Sentinel-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Velero-2E7D32?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010"/>
+      <img src="https://img.shields.io/badge/Superset-20A6C9?style=for-the-badge&logo=apachesuperset&logoColor=white&labelColor=101010"/>
+    </td>
+  </tr>
+</table>
 
-## Skills:
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=101010)]()
-[![Istio](https://img.shields.io/badge/Istio-3B6CB7?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAqCAYAAACk2+sZAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAHqADAAQAAAABAAAAKgAAAACe4ClDAAAE0UlEQVRYCdVYa1MbVRh+ks1mm2wCoUkgCUGgFqdcpLSVizJQ21HLVMZx/OSP8Jf4b/zk6Jd+8Zs6Y8dxdKhD60ALKeUayH0Tn/dAaG6bbKAdxzPs7tmz73mf897f4Fr65vsKOOSmJvJiM5q/u2wo7Zbd6kOZ99OZHd1bXP9/AbvdLhi6RtM0K9+pkrqWuEIsXXNjZqwPfQEDVvli4F0Di0Qlq4LJ4RCmRkJq7lTKWroLAZcpdsDvwecfDqLHr6MiauhyXAhYMAqFChanohhNBAjcJSrJLwwsjqXRyVYXBoFuw/kywFUZ793sx/V4AOUunezCEleBQ0EDKwtDdDLJR87HpYEFanEyjHjED6sL8DcCPNRvYmE8AtG2Uz97I8DiZPdvxXC1x0DFoa27AhZpJG6ZuJrGPCWeHO59OxIXSxZWZhPo8RlKrbXoLobUF4tJ6J4Wp6olPJs7oyKxpMlE2MTKfAJegwstjDl3I4Kp0ZCj0HIMLEhL01GMDQZhlVqIwCWfoeFLSi0ZpVPlcgQsyUHC5eF8ElIS2zG9PRbGtYTZsXg4AnbRgPdnYpig8xRL7RNFJGRQM/1wc0+74tERWEx5NehVjtNawfWrkrbv3hxAMmKyVtd/q33rCCzZ6LO5JIaiZu2+tvPxd3px50YfK5B99WgLLN1FH5PCg9mYsm1btIaPq/Os1aZ9e9QWWJxq6f0BXIsHG9h2fp1gWM1N9KNitaa1BRZpY2EfE0YcHs1eZa3ZAhqda1Vi3kupW3QKtsDiyXPjUdx6L2zHu+P6+EgPi0cYRSafxtESmMKij5789b3hNu7RyKr5vcfvpcYGVSssfVrtaAlcYRh8zM5ilJ2F3aBCHI3p6yH6CEPLqt/QBCyxl4z68NXyiEoCVe6Sq7MFi1dZNXeFUgXpbAmZvIVCsWzbX4cZFZ98EIdXJ3CN0J4qY/WUDxR3eWaAzbqO1F4OuaKFPK+DdAH7vFL7OWTzJfy+vscSqSFwRYfJVjfg0xHk08OUqns0Xnyyfkq1+mgyiu9+2sTWbv7cdHXAZVcFfjIyuPGHn7ewkTrG1n4Wr/bzOCmcSpchKKsjfl3bw+P1A9rPregNSqTzZ42fXix9WCjgVX4iAkR7ryAe9uPFbo7ApyqvA3ZVXGRq4cdfXvAAHtVNFKnSMrUgp+/1uxEydVTtK/6iLlEUrxLz+BHpM7kSNZMhhFvtFTPtHhW477Wd64DlMGJj0/DgNsNoNBZA0CTJmW3OHsoq7W5SSDI5muckj42XWaxvpVmj63fUAct5hPnGzomiMmif5cEBqsmHXqqO5ms5JNnk6XhHmRKvIp5tHeMpzfT3Rho7Rzm83MujSGTRQHXUAcui8M7TiH9tHmJ9O41Hv23j0zsJLExEkOz3q55LanKBUglYmkCpw7wC++PpIf785wA7fBeJhY+UR42Zr/HMrnb/ihDpJd2Jbd7lb6S70zHMsr0R733+KotnlOrJ5hHBDuk4WagEJZuIIkCNYNVfTKL1Jom5dj7U5jOHWCPAk+fHePR4GyZDJ7WXRYpeatE4mtutzKAU2Yx2zq920ha4jpDM5aRrNIE4ivTSmsZ4bSFX7T67uWNgYSDC6AQD/y47XrvZZTl1uf8/A/bQK76VwzrxCSc0TgX/Fx98qG6Gy0kLAAAAAElFTkSuQmCC&logoColor=white&labelColor=101010)]()
-[![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&labelColor=101010)]()
-</br>
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
-</br>
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google_cloud&logoColor=white&labelColor=101010)]()
-</br>
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-[![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
-</br>
-And more...
+**Highlights**
+- 🚚 Planned **cross-cloud production migration** (Civo → GKE), documented as an after-action report aligned with NIST SP 800-34 and ISO 22301.
+- 🧩 Leading the **replatform of a monolith into microservices**, with a target architecture, migration plan and Architecture Decision Records.
+- 🔐 Per-application PostgreSQL roles and Vault policies, signed container images, policy enforcement with Kyverno.
+- 🚨 Prometheus alerting **covered by promtool tests**, HA Loki, end-to-end tracing over OTLP.
 
-<!-- GitHub stats -->
-<!-- <b>⚡ My GitHub Statistics</b>-->
+## 🤖 AI engineering
 
-<!--<p>-->
-<!-- GitHub Stats -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanes30&show_icons=true&hide_border=true" />-->
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/LiteLLM-3B82F6?style=for-the-badge&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=modelcontextprotocol&logoColor=white&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&labelColor=101010"/>
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black&labelColor=101010"/>
+</p>
 
-<!-- Most Used Languages -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes30&&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
-<!-- </p>-->
+- 📄 **Intelligent document processing on AWS Bedrock** — Textract OCR, multimodal LangGraph extraction, versioned prompts and an **evaluation harness that gates CI on accuracy**; serverless infrastructure in Terraform.
+- 🔎 **Agentic RAG for spreadsheets** — an agent routes each question to SQL, vector search or both, so numeric questions get real aggregations instead of "similar text".
+- 🛠️ **Skills for AI coding agents** — a reusable library that detects a project's stack and installs the right skills, `CLAUDE.md` and `AGENTS.md`.
 
+## 💼 Experience
 
-<!--## 🏆 GitHub Trophies
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=juanes30&theme=darkhub&no-frame=true&row=2)-->
+| Role | Scope |
+|---|---|
+| **CTO — EFY Colombia** | Services marketplace moving to B2B: Go and Kotlin (Quarkus) microservices over gRPC and RabbitMQ, payments, Flutter apps for clients and professionals. |
+| **Platform & Product Lead — logistics platform** | Built and operate the whole Kubernetes platform and the product on it: NestJS backend, React and Next.js apps, Kotlin Multiplatform mobile app, Rust and Python services for package dimensioning on Raspberry Pi. |
+| **AI Engineer — corporate document processing** | LLM extraction pipeline on AWS Bedrock with eval-gated delivery and Terraform-managed infrastructure. |
+| **Independent consultant** | Manufacturing, lending and sports-club systems: NestJS, FastAPI, Next.js, Flutter, hexagonal architecture, contract-first APIs. |
 
-## Find me at:
-[![Twitter](https://img.shields.io/badge/Twitter-@Juan_Esteban_30-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/Juan_Esteban_30)
-[![Instagram](https://img.shields.io/badge/Instagram-@juanestebanlt-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/juanestebanlt/)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan_Esteban-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juan-esteban-londo%C3%B1o-tabares-9301a151/)
+## 🧰 Languages & frameworks
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,python,go,kotlin,rust,dart,java&perline=7" alt="Languages"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nestjs,fastapi,react,nextjs,flutter,vite,tailwind&perline=7" alt="Frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,docker,gcp,aws,terraform&perline=7" alt="Data and cloud"/>
+</p>
 
-## Contact me:
-[![Email](https://img.shields.io/badge/juanestebanlt@gmail.com-my_personal_email_(slow_response)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:juanestebanlt@gmail.com)
+---
+
+<p align="center">
+  <sub>Most of my work lives in private client repositories — happy to walk through architecture and code in a call.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt=""/>
+</p>
